@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

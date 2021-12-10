@@ -18,7 +18,7 @@ namespace _2_CriandoVariaveis
 
             idade -= 10;
 
-            Console.WriteLine(idade);
+            Console.WriteLine("Sua idade é: " + idade + " anos 1!");
 
             Console.WriteLine("Pressione Enter para encerrar . . .");
             Console.ReadLine();
