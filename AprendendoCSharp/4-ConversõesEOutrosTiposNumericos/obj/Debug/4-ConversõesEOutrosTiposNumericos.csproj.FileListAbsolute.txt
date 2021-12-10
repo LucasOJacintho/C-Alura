@@ -1,0 +1,8 @@
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\4-ConversõesEOutrosTiposNumericos\bin\Debug\4-ConversõesEOutrosTiposNumericos.exe.config
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\4-ConversõesEOutrosTiposNumericos\bin\Debug\4-ConversõesEOutrosTiposNumericos.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\4-ConversõesEOutrosTiposNumericos\bin\Debug\4-ConversõesEOutrosTiposNumericos.pdb
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\4-ConversõesEOutrosTiposNumericos\obj\Debug\4-ConversõesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\4-ConversõesEOutrosTiposNumericos\obj\Debug\4-ConversõesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\4-ConversõesEOutrosTiposNumericos\obj\Debug\4-ConversõesEOutrosTiposNumericos.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\4-ConversõesEOutrosTiposNumericos\obj\Debug\4-ConversõesEOutrosTiposNumericos.pdb
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\4-ConversõesEOutrosTiposNumericos\obj\Debug\4-ConversõesEOutrosTiposNumericos.csproj.AssemblyReference.cache
