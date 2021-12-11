@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.3 - DesafioFatorial\obj\Debug\P13.3 - DesafioFatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.3 - DesafioFatorial\obj\Debug\P13.3 - DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.3 - DesafioFatorial\bin\Debug\P13.3 - DesafioFatorial.exe.config
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.3 - DesafioFatorial\bin\Debug\P13.3 - DesafioFatorial.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.3 - DesafioFatorial\bin\Debug\P13.3 - DesafioFatorial.pdb
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.3 - DesafioFatorial\obj\Debug\P13.3 - DesafioFatorial.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.3 - DesafioFatorial\obj\Debug\P13.3 - DesafioFatorial.pdb
