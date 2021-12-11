@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.1 - ExercícioFOREncadeado\bin\Debug\P13.1 - ExercícioFOREncadeado.exe.config
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.1 - ExercícioFOREncadeado\bin\Debug\P13.1 - ExercícioFOREncadeado.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.1 - ExercícioFOREncadeado\bin\Debug\P13.1 - ExercícioFOREncadeado.pdb
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.1 - ExercícioFOREncadeado\obj\Debug\P13.1 - ExercícioFOREncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.1 - ExercícioFOREncadeado\obj\Debug\P13.1 - ExercícioFOREncadeado.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.1 - ExercícioFOREncadeado\obj\Debug\P13.1 - ExercícioFOREncadeado.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.1 - ExercícioFOREncadeado\obj\Debug\P13.1 - ExercícioFOREncadeado.pdb
