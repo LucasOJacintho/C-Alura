@@ -31,6 +31,7 @@ namespace _9___Escopo
             else
                 Console.WriteLine("Você não pode entrar");
 
+
             Console.WriteLine("Pressione qualquer tecla para o encerramento do programa...");
 
             Console.ReadLine();

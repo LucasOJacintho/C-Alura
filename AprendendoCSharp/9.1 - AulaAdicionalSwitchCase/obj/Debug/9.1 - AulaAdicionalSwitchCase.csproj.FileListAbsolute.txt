@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\9.1 - AulaAdicionalSwitchCase\bin\Debug\9.1 - AulaAdicionalSwitchCase.exe.config
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\9.1 - AulaAdicionalSwitchCase\bin\Debug\9.1 - AulaAdicionalSwitchCase.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\9.1 - AulaAdicionalSwitchCase\bin\Debug\9.1 - AulaAdicionalSwitchCase.pdb
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\9.1 - AulaAdicionalSwitchCase\obj\Debug\9.1 - AulaAdicionalSwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\9.1 - AulaAdicionalSwitchCase\obj\Debug\9.1 - AulaAdicionalSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\9.1 - AulaAdicionalSwitchCase\obj\Debug\9.1 - AulaAdicionalSwitchCase.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\9.1 - AulaAdicionalSwitchCase\obj\Debug\9.1 - AulaAdicionalSwitchCase.pdb
