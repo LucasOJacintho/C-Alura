@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.2 - DesafioMultiplos3\bin\Debug\P13.2 - DesafioMultiplos3.exe.config
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.2 - DesafioMultiplos3\bin\Debug\P13.2 - DesafioMultiplos3.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.2 - DesafioMultiplos3\bin\Debug\P13.2 - DesafioMultiplos3.pdb
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.2 - DesafioMultiplos3\obj\Debug\P13.2 - DesafioMultiplos3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.2 - DesafioMultiplos3\obj\Debug\P13.2 - DesafioMultiplos3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.2 - DesafioMultiplos3\obj\Debug\P13.2 - DesafioMultiplos3.exe
+C:\Users\lucas\Documents\DEV\Alura\Csharp-Alura\AprendendoCSharp\P13.2 - DesafioMultiplos3\obj\Debug\P13.2 - DesafioMultiplos3.pdb
