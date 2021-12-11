@@ -7,7 +7,7 @@
     <ProjectGuid>{BBD008DF-92B7-426F-A802-219A9C5D7438}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_6___AtribuicoesDeVariaveis</RootNamespace>
-    <AssemblyName>_6___AtribuicoesDeVariaveis</AssemblyName>
+    <AssemblyName>6 - AtribuicoesDeVariaveis</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
